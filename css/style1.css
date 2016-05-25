@@ -9,6 +9,9 @@
 }
 
 .sidebar {
+  border: 12px solid green;
+  margin: 5px;
+  padding: 4px;
   width: 20%;
   float: right;
   background-color: gold;
@@ -16,4 +19,5 @@
 
 .something{
   width: 200px;
+  padding: 5px;
 }
